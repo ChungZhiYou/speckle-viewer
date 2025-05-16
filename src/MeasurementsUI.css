@@ -1,0 +1,18 @@
+.measurement-panel {
+    background: #1e1e1e;
+    color: #eee;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .measurement-panel label {
+    display: flex;
+    flex-direction: column;
+  }
+  .measurement-panel button {
+    margin-top: 0.5rem;
+  }
+  
