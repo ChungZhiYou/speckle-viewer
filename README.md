@@ -48,7 +48,7 @@ This project replicates and extends the functionality of the [Speckle Viewer](ht
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/youruser/speckle-viewer-clone.git
+git clone https://github.com/ChungZhiYou/speckle-viewer-clone.git
 cd speckle-viewer-clone
 ```
 
